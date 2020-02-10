@@ -5,4 +5,3 @@ multi-layer Neural Network and a Convolutional Neural Network, each used to
 solve a multi-class classification problem. We train the models to learn from
 Fashion MNIST dataset of clothing images and classify a given image into one
 of 10 classes.
-1
