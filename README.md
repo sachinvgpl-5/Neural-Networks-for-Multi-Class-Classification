@@ -1,4 +1,4 @@
-# Neural-Networks-for-Multi-Class-Classification
+# Neural Networks for Multi Class Classification
 
 This project shows the implementation of a single-layer Neural Network, a
 multi-layer Neural Network and a Convolutional Neural Network, each used to
